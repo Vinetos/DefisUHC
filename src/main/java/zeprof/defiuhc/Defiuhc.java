@@ -7,7 +7,7 @@ public final class Defiuhc extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-
+        //TEST
     }
 
     @Override
