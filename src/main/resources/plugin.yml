@@ -1,0 +1,5 @@
+name: Defiuhc
+version: ${project.version}
+main: zeprof.defiuhc.Defiuhc
+authors: [Vinetos, Sotshi, ZeProfd1fo]
+description: Le code du Défi UHC
